@@ -205,7 +205,7 @@ En resumen, este análisis ha servido para ver que la empresa necesita reforzar 
 * **INCIBE \- Instituto Nacional de Ciberseguridad de España.** (2020). *Guía de ciberseguridad: Gestión de riesgos de la cadena de suministro.* [https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia\_ciberseguridad\_gestion\_riesgos\_metad.pdf](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf)
 
 
-  # **9\. Anexos.** {#9.-anexos.}
+# **9\. Anexos.** {#9.-anexos.}
 
 ***A tener en cuenta***: Para la realización de estas tablas nos hemos ayudado de la Inteligencia Artificial y de la lógica deductiva, pues nos falta información para basarnos en datos objetivos.
 
